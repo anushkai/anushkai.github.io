@@ -2,21 +2,15 @@
 main:
   - title: "About"
     url: /about/
-  # - title: "CV"
-  #   url: /cv/
-  - title: "Publications"
-    url: /publications/
+
+  - title: "Education"
+    url: /education/
+
   - title: "Experience"
     url: /experience/
+
   - title: "Achievements"
     url: /achievements/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Robots"
-    url: /portfolio/
-  # - title: "Collections"
-  #   url: /collection-archive/
-#  - title: "External Link"
-#    url: https://google.com
-#  - title: "Sitemap"
-#    url: /sitemap/
+
+  - title: "Projects"
+    url: /projects/

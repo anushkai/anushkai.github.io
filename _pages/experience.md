@@ -11,7 +11,7 @@ font-size: 12px
 
 ---
 
-### Graduate Research Assistant, Purdue University, US
+### Graduate Research Assistant, University of Virginia, US
 (Jan 2021 - Present)
 
 - Federated Learning
