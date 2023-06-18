@@ -110,8 +110,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adhitha Dias"
-  avatar           : "/assets/images/avatar.jpeg"
+  name             : "Anushka Idamekorala"
+  avatar           : "/assets/images/profile.png"
   bio              : "Graduate student at University of Virginia"
   location         : "Charlottesville, VA"
   email            :
@@ -121,7 +121,7 @@ author:
       url: mailto:anushka@virginia.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://adhithadias.github.io/"
+      url: "https://anushkai.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/AdhithaDias"
