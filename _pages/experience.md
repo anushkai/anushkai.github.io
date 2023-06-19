@@ -20,12 +20,12 @@ font-size: 12px
 ---
 ### Associate Tech Lead, Unibench, Australia
 
-- Working on the Food team of Pickme, which is Sri Lanka’s leading taxi hailing and food delivery system. Contributed several components to improve their standards. Key Responsibilities included,
-  - Designing and implementation of Microservices which followed an Event driven architecture.
-  - Collaborative development with local teams to deliver features.
-  - Implementing enhanced monitoring using Prometheus and Grafana.
-  - Regression testing services for higher traffic.
-- Technical Stack:  Go, Kafka, Docker, Kubernetes, Prometheus, Grafana, Git, Bash,SQL
+- Working on Novatti payment gateway which is the legacy product of Novatti acquiring. One of the early members of Novati Acquiring and have played a full-stack role contributing to every key components of the payment gateway which followed a serverless architecture.
+  - Implementation of reconciliation manager and third party clients to systems such as Starrez and Manoowa to reconcile transactions.
+  - Orchestrating Merchant Onboarding through Step function
+  - End to end implementation of PayXCrypto, which is a secure and compliant real-time crypto payment system
+- AWS Stack: Lambda, DynamoDb, Api Gateway, SQS, SNS, Secret Manager, App Config, S3, CloudFront
+- Other Stack: Java, Spring Boot,  Javascript, Maven, React, GraalVM, PHP, Git, Bash
 
 ---
 

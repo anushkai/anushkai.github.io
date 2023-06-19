@@ -25,12 +25,16 @@ advance optimizations gave a performance gain about 10% compared to basic alias 
 ---
 
 ### Hyper Parameter Evaluation
-
+The project was to study the how the hyper parameters effect on the different machine learning algorithms. A range of algorithms where studied from logistic regression, SVM to convolutional neural networks.
+Intention of the study was to evaluate the tradeoff between bias and variance through accuracies and loss for the considered algorithms against different parameters.
 
 
 ---
 ### Novatti Payment Gateway
-
+Working on Novatti payment gateway which is the legacy product of Novatti acquiring. One of the early members of Novati Acquiring and have played a full-stack role contributing to every key components of the payment gateway which followed a serverless architecture.
+- Implementation of reconciliation manager and third party clients to systems such as Starrez and Manoowa to reconcile transactions.
+- Orchestrating Merchant Onboarding through Step function
+- End to end implementation of PayXCrypto, which is a secure and compliant real-time crypto payment system
 
 
 

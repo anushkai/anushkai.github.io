@@ -22,12 +22,11 @@ where I completed my thesis on V2V vehicle platooning implementation for highway
 Upon graduation, before starting my graduate studies, I worked as a Software Engineer at Sysco LABS, Sri Lanka where we developed and maintained applications for Sysco Corporation, USA.
 {: .text-justify}
 
-[Resume]({{ "/assets/pdf/resume.pdf" | relative_url }}) &nbsp; &nbsp;
-[CV]({{ "/assets/pdf/adhitha_dias_cv.pdf" | relative_url }}) &nbsp; &nbsp;
-[SOP (Outdated)]({{ "/assets/pdf/Adhitha_Dias_SOP.pdf" | relative_url }}) &nbsp; &nbsp;
-[Transcript (Grad)]({{ "/assets/pdf/adhitha_dias_grad_transcript.pdf" | relative_url }}) &nbsp; &nbsp;
+[Resume]({{ "/assets/pdf/Anushka_Idamekorala_Resume.pdf" | relative_url }}) &nbsp; &nbsp;
+[CV]({{ "/assets/pdf/Anushka_Idamekorala_Resume.pdf" | relative_url }}) &nbsp; &nbsp;
+[Transcript (Grad)]({{ "/assets/pdf/Unofficial_Transcript_UVA.pdf" | relative_url }}) &nbsp; &nbsp;
 [Transcript (Undergrad)]({{ "/assets/pdf/Transcripts_Anushka_Idamekorala.pdf" | relative_url }}) &nbsp; &nbsp;
-[Service Letter (Sysco)]({{ "/assets/pdf/service_letter_adhitha_dias.pdf" | relative_url }}) &nbsp; &nbsp;
+[Service Letter (Sysco)]({{ "/assets/pdf/Certification_Of_Employment_Sysco.pdf" | relative_url }}) &nbsp; &nbsp;
 {: .text-left}
 
 
