@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Anushka"
 title_separator          : "-"
 subtitle                 : # "Version_1.0"
 name                     : "Anushka Idamekorala"
-description              : "Web page."
+description              : "Journey of a divergent"
 url                      : "https://anushkai.github.io"
 baseurl                  : ""
 repository               : "anushkai/anushkai.github.io"
