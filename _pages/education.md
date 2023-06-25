@@ -15,7 +15,7 @@ font-size: 12px
 **CGPA 4.0/ 4.0**
 - Machine Learning
 - Cloud Computing
-- esign & Analysis of Algorithms
+- Design & Analysis of Algorithms
 - Geometry of Data
 - Compilers
 - Network Security

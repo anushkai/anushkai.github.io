@@ -22,7 +22,7 @@ font-size: 12px
 ### Associate Tech Lead/ Senior Software Engineer, Novatti Group(ASX: NOV) via Unibench, Australia
 (June 2021 - Aug 2022)
 - Working on Novatti payment gateway which is the legacy product of Novatti acquiring. One of the early members of Novati Acquiring and have played a full-stack role contributing to every key components of the payment gateway which followed a serverless architecture.
-  - Implementation of reconciliation process through several clients and disbursement process.
+  - Implementation of reconciliation process and disbursement process which involved communicating transfer details with several platforms.
   - Developing Merchant Onboarding flow assisting Step functions.
   - End to end implementation of PayXCrypto, which is a secure and compliant real-time crypto payment system
 - AWS Stack: Lambda, DynamoDb, Api Gateway, SQS, SNS, Secret Manager, App Config, S3, CloudFront
