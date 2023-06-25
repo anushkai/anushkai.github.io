@@ -24,6 +24,7 @@ This work is done with the focus on federated learning and improving the scalabi
 This project aimed to study the scope of alias analysis methods in LLVM and its impact on performance of overall compiler optimization. I experimented with various factors including  considered application (program), level of the optimization and the implementation of AA method and through extending that I could show combining alias 
 analysis methods improved the precision. In terms of execution time, the optimality of alias methods became insignificant. Advanced optimizations provided a 10% performance gain compared to basic alias analysis, but optimal alias analysis was not crucial due to negligible variance.
 - Technical Stack: C++, Bash
+
 ---
 
 ### Hyper Parameter Evaluation
