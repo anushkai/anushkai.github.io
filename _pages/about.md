@@ -12,7 +12,7 @@ Email: anb5km [AT] virginia [DOT] edu
 
 <span style="color:blue">*I am currently looking for software engineering internship opportunities, for summer 2024. Email: anb5km@virginia.edu*</span>
 
-I am Anushka Idamekorala, a graduate student at University of Virginia, working with [Prof. Geoffery Fox]({{"https://engineering.virginia.edu/faculty/geoffrey-c-fox"}}). I am broadly interested in systems, distributed computing and deep learning. My current research focuses on privacy preserving machine learning.
+I am Anushka Idamekorala, a graduate student at University of Virginia, working with world-renowned [Prof. Geoffery Fox]({{"https://engineering.virginia.edu/faculty/geoffrey-c-fox"}}). I am broadly interested in systems, distributed computing and deep learning. My current research focuses on privacy preserving machine learning.
 
 I received my Honors Degree of Bachelor of Science Honors in Engineering (B.Sc.(Hons.) in Engineering) from University of Moratuwa,
 where I completed my thesis on V2V vehicle platooning implementation for highways(simulation study) under the advisement of
@@ -25,7 +25,7 @@ Novatti (ASX:NOV). These experiences have allowed me to work on diverse projects
 
 
 [Resume]({{ "/assets/pdf/Anushka_Idamekorala_Resume.pdf" | relative_url }}) &nbsp; &nbsp;
-[CV]({{ "/assets/pdf/Anushka_Idamekorala_Resume.pdf" | relative_url }}) &nbsp; &nbsp;
+[CV]({{ "/assets/pdf/Anushka_Idamekorala_CV.pdf" | relative_url }}) &nbsp; &nbsp;
 [Transcript (Grad)]({{ "/assets/pdf/Unofficial_Transcript_UVA.pdf" | relative_url }}) &nbsp; &nbsp;
 [Transcript (Undergrad)]({{ "/assets/pdf/Transcripts_Anushka_Idamekorala.pdf" | relative_url }}) &nbsp; &nbsp;
 [Service Letter (Sysco)]({{ "/assets/pdf/Certification_Of_Employment_Sysco.pdf" | relative_url }}) &nbsp; &nbsp;

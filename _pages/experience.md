@@ -14,13 +14,14 @@ font-size: 12px
 ### Graduate Research Assistant, University of Virginia, US
 (Aug 2022 - Present)
 
-- Federated Learning
+- Explored novel approaches that leverage parallel and distributed computing architectures to achieve faster and more scalable graph processing .I investigated graph analytics techniques to uncover patterns, relationships, and properties within graph data.
+- Currently working on the research direction of privacy preserving machine learning.
 
 
 ---
-### Associate Tech Lead, Unibench, Australia
-(May 2021 - Aug 2022)
-- Working on Novatti(ASX:NOV) payment gateway which is the legacy product of Novatti acquiring. One of the early members of Novati Acquiring and have played a full-stack role contributing to every key components of the payment gateway which followed a serverless architecture.
+### Associate Tech Lead/ Senior Software Engineer, Novatti Group(ASX: NOV) via Unibench, Australia
+(June 2021 - Aug 2022)
+- Working on Novatti payment gateway which is the legacy product of Novatti acquiring. One of the early members of Novati Acquiring and have played a full-stack role contributing to every key components of the payment gateway which followed a serverless architecture.
   - Implementation of reconciliation manager and third party clients to systems such as Starrez and Manoowa to reconcile transactions.
   - Orchestrating Merchant Onboarding through Step function
   - End to end implementation of PayXCrypto, which is a secure and compliant real-time crypto payment system

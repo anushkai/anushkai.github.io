@@ -36,7 +36,7 @@ Intention of the study was to evaluate the tradeoff between bias and variance th
 
 ---
 ### Novatti Payment Gateway
-(May 2021- Aug 2022)
+(June 2021- Aug 2022)
 
 Working on Novatti payment gateway which is the legacy product of Novatti acquiring. One of the early members of Novati Acquiring and have played a full-stack role contributing to every key components of the payment gateway which followed a serverless architecture.
 - Implementation of reconciliation manager and third party clients to systems such as Starrez and Manoowa to reconcile transactions.
