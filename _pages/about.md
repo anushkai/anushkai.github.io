@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "About Anushka Idamekorala"
-last_modified_at: 2020-10-27T15:46:43-04:00
+last_modified_at: 2023-06-25T15:46:43-04:00
 toc: true
 ---
 
@@ -19,8 +19,10 @@ where I completed my thesis on V2V vehicle platooning implementation for highway
 [Dr. Tharaka Samarasinghe]({{"https://ent.uom.lk/team/dr-tharaka-samarasinghe/"}}).
 {: .text-justify}
 
-Upon graduation, before starting my graduate studies, I worked as a Software Engineer at Sysco LABS, Sri Lanka where we developed and maintained applications for Sysco Corporation, USA.
-{: .text-justify}
+Upon graduation, before starting my graduate studies, I played software engineering role for a couple of years in several prominent companies including Sysco LABS (Engineering arm of Sysco Corporation), Singapore Management University, PickMe, 
+Novatti (ASX:NOV). These experiences have allowed me to work on diverse projects and collaborate with talented teams, further enhancing my technical capabilities. In addition to my technical skills, I am dedicated to ensuring smooth production environments and promptly resolving any issues that may arise. I thrive in dynamic and challenging work environments that encourage innovation and growth.
+
+
 
 [Resume]({{ "/assets/pdf/Anushka_Idamekorala_Resume.pdf" | relative_url }}) &nbsp; &nbsp;
 [CV]({{ "/assets/pdf/Anushka_Idamekorala_Resume.pdf" | relative_url }}) &nbsp; &nbsp;
@@ -32,7 +34,7 @@ Upon graduation, before starting my graduate studies, I worked as a Software Eng
 
 ## News!
 ---
-* June 2023: Became am **AWS certified Solution Architect Associate**
+* June 2023:  I have successfully passed the **AWS Solutions Architect Associate exam**
 * May 2023: Finished the Spring semester with **CGPA: 4.0/ 4.0**
 * August 2022: Started my PhD in Computer Science at University of Virginia.
 * May 2021: Started working as a Senior Software Engineer at Unibench, Australia through whichI directly worked with Novatti.
