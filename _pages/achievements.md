@@ -9,8 +9,8 @@ toc: true
 ## Awards, Honors and Grants
 
 - **IEEEXtreme** Global competitive programming competition organized by IEEE
-  - IEEEXtreme 12.0 Country Rank - 01, World Rank - 60 (2018)
-  - IEEEXtreme 10.0 Country Rank - 03, World Rank - 106 (2016)
+  - IEEEXtreme 12.0 Country Rank - 01, World Rank - 60 (2018) [Link](https://ieeextreme.org/wp-content/uploads/2018/11/IEEEXtreme-12.0-Global-Ranking.pdf)
+  - IEEEXtreme 10.0 Country Rank - 03, World Rank - 106 (2016) [Link](https://ieeextreme.org/wp-content/uploads/2016/11/Ranking-by-Country.pdf)
 - **MoraXtreme** Local competitive programming competition organized by University of Moratuwa
   - MoraXtreme v3.0 Champions (2018)
   - MoraXtreme v1.0 Champions (2016)
@@ -25,10 +25,10 @@ toc: true
 
 ## Certifications
 - **AWS Developer Associate Certification, Reading**
-- **AWS Certified Solution Architect Associate**
+- **AWS Certified Solution Architect Associate** [Link](https://www.credly.com/badges/c7d2f2f6-7d95-4bc0-a8df-fed13da60fba/linked_in_profile)
 - Coursera Certifications authorized by ULUC
-  - Cloud Computing Concepts, Part 1
-  - Cloud Computing Concepts, Part 2
-  - Big Data And Applications In The Cloud
-  - Graph Analytics For Big Data
+  - Cloud Computing Concepts, Part 1 [Link](https://www.coursera.org/account/accomplishments/certificate/N8W4CNHADYZG)
+  - Cloud Computing Concepts, Part 2 [Link](https://www.coursera.org/account/accomplishments/certificate/4ZA88PXHYD2E)
+  - Big Data And Applications In The Cloud [Link](https://www.coursera.org/account/accomplishments/certificate/UNLFZ9JGLVYS)
+  - Graph Analytics For Big Data [Link](https://www.coursera.org/account/accomplishments/certificate/NY2V2PR2SXHE)
 

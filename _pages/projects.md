@@ -38,10 +38,9 @@ Intention of the study was to evaluate the tradeoff between bias and variance th
 ### Novatti Payment Gateway
 (June 2021- Aug 2022)
 
-Working on Novatti payment gateway which is the legacy product of Novatti acquiring. One of the early members of Novati Acquiring and have played a full-stack role contributing to every key components of the payment gateway which followed a serverless architecture.
-- Implementation of reconciliation manager and third party clients to systems such as Starrez and Manoowa to reconcile transactions.
-- Orchestrating Merchant Onboarding through Step function
-- End to end implementation of PayXCrypto, which is a secure and compliant real-time crypto payment system
+Working on Novatti payment gateway which is the legacy product of Novatti acquiring. As one of the early members of Novati Acquiring, I have played a full-stack role contributing to every key component of the payment gateway which followed a serverless architecture. 
+I worked on the implementation of  several principal components including reconciliation flow, disbursement flow and merchant onboarding flow. Moreover, I actively contributed to the end to end implementation of PayXCrypto, which is the secure and compliant real-time crypto payment system of Novatti.
+
 - AWS Stack: Lambda, DynamoDb, Api Gateway, SQS, SNS, Secret Manager, App Config, S3, CloudFront
 - Other Stack: Java, Spring Boot,  Javascript, Maven, React, GraalVM, PHP, Git, Bash
 
