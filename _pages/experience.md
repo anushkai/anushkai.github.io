@@ -78,4 +78,5 @@ font-size: 12px
 - Experimented on different traffic shaping algorithms to analyse their efficiencies.
 - Developed a new core algorithm to effectively do the traffic shaping where I constructed a software implementation as well as a hardware accelerated implementation which improved the overall performance of the product significantly.
 - Technical Stack: C++, Git, Bash, Verilog, FPGA
+
 ----
