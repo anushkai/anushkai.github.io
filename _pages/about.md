@@ -34,7 +34,7 @@ Novatti (ASX:NOV). These experiences have allowed me to work on diverse projects
 
 ## News!
 ---
-* June 2023:  I have successfully passed the **AWS Solutions Architect Associate exam**
+* June 2023: Passed the **AWS Solutions Architect Associate exam** successfully.
 * May 2023: Finished the Spring semester with **CGPA: 4.0/ 4.0**
 * August 2022: Started my PhD in Computer Science at University of Virginia.
 * May 2021: Started working as a Senior Software Engineer at Unibench, Australia through which I directly worked with Novatti.
