@@ -20,7 +20,7 @@ toc: true
 - *Mahapola Merit Scholarship 2014-2018* For Undergraduate Studies.
 - *Dialog Merit Scholarship 2014-2018* For Undergraduate Studies.
 - *Sri Lankan Insurance Subapathum scholarship 2014* For G.C.E.(A/L) performance.
-- Ranked 14<sup>st</sup> **(99.96% percentile)** (out of $32k$ students) and Provincial 1st in Sri Lanka in Math Stream at the University Entrance Examination 2013 -- this is one of the most competitive examinations in the country.
+- Ranked 14<sup>th</sup> **(99.96% percentile)** (out of $32k$ students) and Provincial 1st in Sri Lanka in Math Stream at the University Entrance Examination 2013 -- this is one of the most competitive examinations in the country.
 - High distinction winner in Mathematics Olympiad organized by SLMO in 2009, 2010 and 2011 years.
 
 ## Certifications
