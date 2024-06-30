@@ -13,6 +13,9 @@ font-size: 12px
 ### Doctor of Philosophy, Computer Science
 #### University of Virginia, VA, USA
 **CGPA 4.0/ 4.0**
+- Software Logic
+- Natural Language Processing
+- Human-Computer Interaction
 - Machine Learning
 - Cloud Computing
 - Design & Analysis of Algorithms
