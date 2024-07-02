@@ -18,7 +18,7 @@ This aimed to measure the contribution of static variables on multivariate time 
 
 ---
 
-### Defining Affing Using a Functional Programming Approach
+### Defining Affine Using a Functional Programming Approach
 (Jan 2024- May 2024)
 Formulated a mathematical structure for the functionalities in Affine Space and implemented them using a functional programming and theorem proving language.
 - Technical Stack: Lean
