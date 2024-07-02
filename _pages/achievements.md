@@ -10,6 +10,7 @@ toc: true
 - **Databricks Certified Data Engineer Professional** [Link](https://credentials.databricks.com/4323b72d-65c1-48fa-8e84-09eefbe6c218)
 - **AWS Certified Machine Learning Speciality** [Link](https://www.credly.com/badges/53c1f21b-1446-4e7c-9199-5d4b69593307/linked_in_profile)
 - **AWS Certified Developer Associate** [Link](https://www.credly.com/badges/f0e5b99e-724c-4493-8ba6-124a368dc4e1/linked_in_profile)
+- **Microservices: Clean Architecture, DDD, SAGA, Outbox & Kafka: Udemy** [Link](https://www.udemy.com/certificate/UC-9e3efd58-8cfe-4891-99f4-8dea30feb2f3/)
 - **AWS Certified Solution Architect Associate** [Link](https://www.credly.com/badges/c7d2f2f6-7d95-4bc0-a8df-fed13da60fba/linked_in_profile)
 - Coursera Certifications authorized by ULUC
   - Cloud Computing Concepts, Part 1 [Link](https://www.coursera.org/account/accomplishments/certificate/N8W4CNHADYZG)

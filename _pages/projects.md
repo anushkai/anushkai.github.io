@@ -8,10 +8,31 @@ toc: true
 search: true
 list-style-type: square
 font-size: 12px
+
+---
+
+### Multi-Variate Time Series Forecasting in Hydrology
+(May 2024- Now)
+This aimed to measure the contribution of static variables on multivariate time series ML models using hydrology datasets.
+- Technical Stack: python
+
+---
+
+### Defining Affing Using a Functional Programming Approach
+(Jan 2024- May 2024)
+Formulated a mathematical structure for the functionalities in Affine Space and implemented them using a functional programming and theorem proving language.
+- Technical Stack: Lean
+
+---
+### Emotion Fluctuation Identification In conversations
+(Aug 2023- Dec 2023)
+Implemented a transformer-based NLP model to identify emotions through a conversation and utilize that to measure mental progress.
+- Technical Stack: python
+
 ---
 
 ### Privacy Preserving Machine Learning
-(Mar 2023- Now)
+(Mar 2023- Aug 2023)
 
 This work is done with the focus on federated learning and improving the scalability and efficiency of personalized federated learning. I am studying several applications in federated learning including image processing and NLP which have higher privacy concerns as well as efficiency.
 - Technical Stack: python, Git
