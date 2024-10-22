@@ -15,7 +15,8 @@ font-size: 12px
 (Aug 2022 - Present)
 
 - Explored novel approaches that leverage parallel and distributed computing architectures to achieve faster and more scalable graph processing .I investigated graph analytics techniques to uncover patterns, relationships, and properties within graph data.
-- Currently working on the research direction of privacy preserving machine learning.
+- Currently working on the research direction of foundation models and big data systems. My research focus is
+  on implementing time series foundation models which can quickly adapt to a given context.
 
 
 ---

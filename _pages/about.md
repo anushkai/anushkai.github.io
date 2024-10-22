@@ -26,7 +26,7 @@ Novatti (ASX:NOV). These experiences have allowed me to work on diverse projects
 
 [Resume]({{ "/assets/pdf/Anushka_Idamekorala_Resume.pdf" | relative_url }}) &nbsp; &nbsp;
 [CV]({{ "/assets/pdf/Anushka_Idamekorala_CV.pdf" | relative_url }}) &nbsp; &nbsp;
-[Transcript (Grad)]({{ "/assets/pdf/Unofficial_Transcript_UVA.pdf" | relative_url }}) &nbsp; &nbsp;
+[Transcript (Grad)]({{ "/assets/pdf/Official_Transcript_UVA.pdf" | relative_url }}) &nbsp; &nbsp;
 [Transcript (Undergrad)]({{ "/assets/pdf/Transcripts_Anushka_Idamekorala.pdf" | relative_url }}) &nbsp; &nbsp;
 [Service Letter (Sysco)]({{ "/assets/pdf/Certification_Of_Employment_Sysco.pdf" | relative_url }}) &nbsp; &nbsp;
 {: .text-left}
