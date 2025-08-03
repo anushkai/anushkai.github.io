@@ -10,8 +10,6 @@ Email: anb5km [AT] virginia [DOT] edu
 {: .text-justify}
 
 
-<span style="color:blue">*I am currently looking for software engineering internship opportunities, for summer 2024. Email: anb5km@virginia.edu*</span>
-
 I am Anushka Idamekorala, a graduate student at University of Virginia, working with world-renowned [Prof. Geoffery Fox]({{"https://engineering.virginia.edu/faculty/geoffrey-c-fox"}}). I am broadly interested in systems, distributed computing and deep learning. My current research focuses on privacy preserving machine learning.
 
 I received my Honors Degree of Bachelor of Science Honors in Engineering (B.Sc.(Hons.) in Engineering) from University of Moratuwa, Sri Lanka
